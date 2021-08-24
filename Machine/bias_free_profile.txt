@@ -1,0 +1,4 @@
+Name: Manan Bhatt
+Email: bhattm740@gmail.com
+Skills: {'Music', 'API', 'Software Engineering', 'Java', 'Python', 'Data Science', 'Leadership', 'C', 'Data Visualization', 'Machine Learning', 'Statistical Programming', 'Algorithms'}
+Degree: [('BS', '2023')]
